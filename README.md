@@ -4,7 +4,7 @@
 <p>PreBus is an online Interface for Students and Transportation administration department in Presidency University.</p>
 <ul>
 <li>User-Friendly</li>
-<li>Faster than Light</li>
+<li>Light Weight</li>
 <li>Just use it to Know it.!</li>
 </ul>
 <h1><a id="Features__Modules_11"></a>Features &amp; Modules!</h1>
